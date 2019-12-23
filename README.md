@@ -18,5 +18,3 @@ Open Agenda.xcworkspace file in Xcode. (Pod install may be required).
 So if you decide to use this project, don't forget to re-integrate Firebase/Firestore.
 
 2. I'm aware of remaining bugs/crashes/navigation issues. Since, I worked on it in a limited time, I prioritized features.
-
-## Preview
