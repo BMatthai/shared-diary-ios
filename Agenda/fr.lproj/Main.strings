@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "0DW-Zw-hPh"; */
+"0DW-Zw-hPh.text" = "Name:";
+
+/* Class = "UILabel"; text = "AGENDA_THEME"; ObjectID = "29n-IR-58L"; */
+"29n-IR-58L.text" = "AGENDA_THEME";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "3DU-iv-b8X"; */
+"3DU-iv-b8X.title" = " ";
+
+/* Class = "UINavigationItem"; title = "Create an agenda"; ObjectID = "3k8-Me-rWB"; */
+"3k8-Me-rWB.title" = "Create an agenda";
+
+/* Class = "UILabel"; text = "Place: "; ObjectID = "4Xv-RT-gwt"; */
+"4Xv-RT-gwt.text" = "Place: ";
+
+/* Class = "UINavigationItem"; title = "Event details"; ObjectID = "5zs-iQ-BYv"; */
+"5zs-iQ-BYv.title" = "Event details";
+
+/* Class = "UILabel"; text = "EVENT_DATE"; ObjectID = "6Qw-eS-Ifg"; */
+"6Qw-eS-Ifg.text" = "EVENT_DATE";
+
+/* Class = "UILabel"; text = "EVENT_NAME"; ObjectID = "7hb-LO-AVZ"; */
+"7hb-LO-AVZ.text" = "EVENT_NAME";
+
+/* Class = "UILabel"; text = "Crée le : "; ObjectID = "830-tt-QGH"; */
+"830-tt-QGH.text" = "Crée le : ";
+
+/* Class = "UINavigationItem"; title = "Create an event"; ObjectID = "ADI-Lr-cYx"; */
+"ADI-Lr-cYx.title" = "Create an event";
+
+/* Class = "UITabBarItem"; title = "Agendas"; ObjectID = "Awi-rp-sGZ"; */
+"Awi-rp-sGZ.title" = "Agendas";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "BtK-8I-hP7"; */
+"BtK-8I-hP7.title" = "Contacts";
+
+/* Class = "UILabel"; text = "EVENT_PLACE"; ObjectID = "CFO-bS-gL6"; */
+"CFO-bS-gL6.text" = "EVENT_PLACE";
+
+/* Class = "UIButton"; normalTitle = "Supprimer"; ObjectID = "EkL-9c-GFr"; */
+"EkL-9c-GFr.normalTitle" = "Supprimer";
+
+/* Class = "UITabBarItem"; title = "Social"; ObjectID = "GDI-fZ-7nI"; */
+"GDI-fZ-7nI.title" = "Social";
+
+/* Class = "UILabel"; text = "Ends at: "; ObjectID = "LLe-cO-aIQ"; */
+"LLe-cO-aIQ.text" = "Ends at: ";
+
+/* Class = "UINavigationItem"; title = "New event"; ObjectID = "P0I-We-PSj"; */
+"P0I-We-PSj.title" = "New event";
+
+/* Class = "UINavigationItem"; title = "Incoming events"; ObjectID = "Q0a-ag-25w"; */
+"Q0a-ag-25w.title" = "Incoming events";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "Q9E-Ia-Yxi"; */
+"Q9E-Ia-Yxi.normalTitle" = "Create";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "USq-yk-1Pa"; */
+"USq-yk-1Pa.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "END_DATE"; ObjectID = "Uc0-fk-8sf"; */
+"Uc0-fk-8sf.text" = "END_DATE";
+
+/* Class = "UIBarButtonItem"; title = "dd"; ObjectID = "VMF-Ok-yEF"; */
+"VMF-Ok-yEF.title" = "dd";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "XaW-qL-K8Q"; */
+"XaW-qL-K8Q.title" = "More";
+
+/* Class = "UINavigationItem"; title = "Agenda details"; ObjectID = "XmL-1s-5Y2"; */
+"XmL-1s-5Y2.title" = "Agenda details";
+
+/* Class = "UIButton"; normalTitle = "Create event"; ObjectID = "Y4T-B1-eSB"; */
+"Y4T-B1-eSB.normalTitle" = "Create event";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "YGU-8F-qYf"; */
+"YGU-8F-qYf.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Create event"; ObjectID = "bee-As-GYA"; */
+"bee-As-GYA.normalTitle" = "Create event";
+
+/* Class = "UILabel"; text = "EVENT_DATE"; ObjectID = "bej-vl-Tod"; */
+"bej-vl-Tod.text" = "EVENT_DATE";
+
+/* Class = "UINavigationItem"; title = "Agenda detail"; ObjectID = "d93-2s-U7N"; */
+"d93-2s-U7N.title" = "Agenda detail";
+
+/* Class = "UILabel"; text = "Agenda: "; ObjectID = "dM4-zb-uFN"; */
+"dM4-zb-uFN.text" = "Agenda: ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dVA-wG-XQ9"; */
+"dVA-wG-XQ9.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "EVENT_NAME"; ObjectID = "exj-GT-e8n"; */
+"exj-GT-e8n.text" = "EVENT_NAME";
+
+/* Class = "UILabel"; text = "AGENDA_NAME"; ObjectID = "f11-8S-rai"; */
+"f11-8S-rai.text" = "AGENDA_NAME";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "f9K-ev-Hoo"; */
+"f9K-ev-Hoo.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Create agenda"; ObjectID = "fd1-IM-oqJ"; */
+"fd1-IM-oqJ.normalTitle" = "Create agenda";
+
+/* Class = "UINavigationItem"; title = "My events"; ObjectID = "hMt-vj-gpP"; */
+"hMt-vj-gpP.title" = "My events";
+
+/* Class = "UILabel"; text = "EVENT_NAME"; ObjectID = "hVI-R4-j1C"; */
+"hVI-R4-j1C.text" = "EVENT_NAME";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "jSa-gA-CH2"; */
+"jSa-gA-CH2.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "qPi-Nr-srH"; */
+"qPi-Nr-srH.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "I participate: "; ObjectID = "qU6-6S-Lb4"; */
+"qU6-6S-Lb4.text" = "I participate: ";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "rCk-NF-l9b"; */
+"rCk-NF-l9b.normalTitle" = ">";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "rGe-YV-gGi"; */
+"rGe-YV-gGi.normalTitle" = "Sign out";
+
+/* Class = "UINavigationItem"; title = "Agendas"; ObjectID = "rqN-uV-L6j"; */
+"rqN-uV-L6j.title" = "Agendas";
+
+/* Class = "UIButton"; normalTitle = "Voir mes agendas"; ObjectID = "s8a-Qq-AYf"; */
+"s8a-Qq-AYf.normalTitle" = "Voir mes agendas";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "tfA-Ff-LXa"; */
+"tfA-Ff-LXa.normalTitle" = "<";
+
+/* Class = "UINavigationItem"; title = "My agendas"; ObjectID = "vde-uf-SAf"; */
+"vde-uf-SAf.title" = "My agendas";
+
+/* Class = "UILabel"; text = "EVENT_DATE"; ObjectID = "vyq-VO-1MA"; */
+"vyq-VO-1MA.text" = "EVENT_DATE";
+
+/* Class = "UILabel"; text = "Display name"; ObjectID = "wpF-BH-3wT"; */
+"wpF-BH-3wT.text" = "Display name";
+
+/* Class = "UILabel"; text = "Begins at: "; ObjectID = "zAx-4X-fNT"; */
+"zAx-4X-fNT.text" = "Begins at: ";
