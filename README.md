@@ -10,7 +10,7 @@ Data persistence is managed by Firebase Firestore.
 
 ## Usage
 
-Open Agenda.xcworkspace file in Xcode. (Pod install may be required).
+Open Agenda.xcworkspace file in Xcode. (*Pod install* may be required).
 
 ## Notes
 
